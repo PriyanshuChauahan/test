@@ -1,0 +1,5 @@
+{{#user}}
+Name:Priyanshu Chauhan
+Skills:HTML,CSS,JS,React,Node ,Django,Mongo DB,Python
+Email:12411priyanshuchauhan@gmail.com
+{{/user}}
